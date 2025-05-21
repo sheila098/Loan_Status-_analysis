@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SHEILA NYAKARA | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Sheila Nyakara </h1>
+    <p>Data Analyst | Data scientist | </p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#resume">Resume</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Detail-oriented Data Analyst skilled in data exploration, data cleaning, data visualization and management. Proficient in using tools including SQL, Excel, PowerBI, Tableau, and python, with hands-on experience in diverse real-world projects.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>Loan Approval predictionmy </h3>
+      <p> This project focuses on predicting whether a customer is eligible for a loan based on various personal and financial attributes such as gender, marital status, education level, income, and loan amount. By leveraging the Random Forest algorithm;a powerful ensemble learning method.The model learns patterns from historical data to accurately classify applicants as either eligible or not eligible for a loan. This project demonstrates my ability to handle structured data, perform preprocessing, and apply machine learning techniques to solve real-world classification problems.</p>
+    </div>
+    <div class="project">
+      <h3> Call Center Performance Analysis Dashboard (Power bi)</h3>
+      <p>This project presents an interactive Power BI dashboard developed to analyze and monitor the performance of a call center. The goal is to help business stakeholders and operations teams gain actionable insights into key performance metrics and optimize service delivery.</p>
+    </div>
+
+    <div class="project">
+      <h3>CGHS Beneficiary Analysis(SQL Project)</h3>
+      <p>This project takes a closer look at how healthcare benefits under the Central Government Health Scheme (CGHS) are distributed across cities in India. Using real data from data.gov.in, we explore the number of people registered at various wellness centers—grouped by card type: Freedom Fighters, Pensioners, and Serving government employees.The goal is to uncover patterns in how these services are used across different regions.</p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Python(Pandas, NumPy, Scikit-learn)</li>
+      <li>power bi</li>
+      <li>Microsoft Visio, Google Earth</li>
+      <li>SQL,Excel,Google Cloud Storage,jupyter notebook </li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: sheilanyakara51@gmail.com </p>
+    <p>Phone number: +254 740284378 </p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">yourprofile</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></p>
+  </section>
+
+</body>
+</html>
